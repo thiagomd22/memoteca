@@ -1,5 +1,7 @@
 # Memoteca
 
+App para o usuário armazernar os seus pensamentos e anotações como bloco de notas digital. Utilizando Angular 14.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
 ## Development server
